@@ -1,0 +1,21 @@
+Company,InvestmentAmount_mm,ExitMultiple,Outcome
+Company A,1.5,0.0,Shutdown
+Company B,1.5,0.0,Shutdown
+Company C,1.5,0.0,Shutdown
+Company D,1.5,0.0,Shutdown
+Company E,1.5,0.0,Shutdown
+Company F,1.5,0.0,Shutdown
+Company G,1.5,0.3,Acqui-hire
+Company H,1.5,0.5,Partial loss
+Company I,1.5,1.0,Return of capital
+Company J,1.5,1.2,Modest gain
+Company K,1.5,1.8,Modest gain
+Company L,1.5,2.5,Modest gain
+Company M,1.5,3.0,Modest gain
+Company N,1.5,4.5,Good outcome
+Company O,1.5,6.0,Good outcome
+Company P,1.5,8.0,Good outcome
+Company Q,1.5,12.0,Strong winner
+Company R,1.5,18.0,Strong winner
+Company S,1.5,25.0,Major winner
+Company T,1.5,65.0,Fund returner

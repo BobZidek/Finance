@@ -1,0 +1,19 @@
+Startup: Brightline Robotics (hypothetical warehouse automation robotics startup)
+
+Series B Investment: $15.0mm  |  As-converted ownership: 20%  |  Preference: 1.0x
+
+Non-participating conversion crossover: Series B converts to common (rather than taking the preference) once exit value exceeds ~$75.0mm (where 20% of exit value = the 1.0x preference)
+Participating cap binds once exit value exceeds ~$200mm (where uncapped participating payout would exceed the 3.0x cap of $45.0mm)
+
+ ExitValue_mm  NonParticipating_SeriesB_mm  NonParticipating_Common_mm  ParticipatingUncapped_SeriesB_mm  ParticipatingUncapped_Common_mm  ParticipatingCapped_SeriesB_mm  ParticipatingCapped_Common_mm  NonParticipating_ROI  ParticipatingUncapped_ROI  ParticipatingCapped_ROI
+           10                         10.0                         0.0                              10.0                              0.0                            10.0                            0.0                  0.67                       0.67                     0.67
+           20                         15.0                         5.0                              16.0                              4.0                            16.0                            4.0                  1.00                       1.07                     1.07
+           30                         15.0                        15.0                              18.0                             12.0                            18.0                           12.0                  1.00                       1.20                     1.20
+           45                         15.0                        30.0                              21.0                             24.0                            21.0                           24.0                  1.00                       1.40                     1.40
+           60                         15.0                        45.0                              24.0                             36.0                            24.0                           36.0                  1.00                       1.60                     1.60
+           75                         15.0                        60.0                              27.0                             48.0                            27.0                           48.0                  1.00                       1.80                     1.80
+          100                         20.0                        80.0                              32.0                             68.0                            32.0                           68.0                  1.33                       2.13                     2.13
+          150                         30.0                       120.0                              42.0                            108.0                            42.0                          108.0                  2.00                       2.80                     2.80
+          200                         40.0                       160.0                              52.0                            148.0                            45.0                          155.0                  2.67                       3.47                     3.00
+          250                         50.0                       200.0                              62.0                            188.0                            50.0                          200.0                  3.33                       4.13                     3.33
+          350                         70.0                       280.0                              82.0                            268.0                            70.0                          280.0                  4.67                       5.47                     4.67

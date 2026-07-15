@@ -1,0 +1,35 @@
+=== Portfolio Power-Law Summary ===
+
+Total Invested (20 deals): $30.0mm
+Total Proceeds: $223.2mm
+Fund Gross MOIC: 7.44x
+
+Top 1 investment contributes: 43.7% of total proceeds
+Top 3 investments contribute: 72.6% of total proceeds
+Top 5 investments contribute: 86.0% of total proceeds
+
+% of deals returning below 1x (losses): 40%
+% of deals returning 5x or more: 30%
+
+=== Ranked Portfolio (by proceeds) ===
+ Rank   Company  InvestmentAmount_mm  ExitMultiple  Proceeds_mm  PctOfTotalProceeds  CumulativePctOfProceeds
+    1 Company T                  1.5          65.0        97.50               0.437                    0.437
+    2 Company S                  1.5          25.0        37.50               0.168                    0.605
+    3 Company R                  1.5          18.0        27.00               0.121                    0.726
+    4 Company Q                  1.5          12.0        18.00               0.081                    0.806
+    5 Company P                  1.5           8.0        12.00               0.054                    0.860
+    6 Company O                  1.5           6.0         9.00               0.040                    0.901
+    7 Company N                  1.5           4.5         6.75               0.030                    0.931
+    8 Company M                  1.5           3.0         4.50               0.020                    0.951
+    9 Company L                  1.5           2.5         3.75               0.017                    0.968
+   10 Company K                  1.5           1.8         2.70               0.012                    0.980
+   11 Company J                  1.5           1.2         1.80               0.008                    0.988
+   12 Company I                  1.5           1.0         1.50               0.007                    0.995
+   13 Company H                  1.5           0.5         0.75               0.003                    0.998
+   14 Company G                  1.5           0.3         0.45               0.002                    1.000
+   15 Company B                  1.5           0.0         0.00               0.000                    1.000
+   16 Company A                  1.5           0.0         0.00               0.000                    1.000
+   17 Company D                  1.5           0.0         0.00               0.000                    1.000
+   18 Company C                  1.5           0.0         0.00               0.000                    1.000
+   19 Company F                  1.5           0.0         0.00               0.000                    1.000
+   20 Company E                  1.5           0.0         0.00               0.000                    1.000

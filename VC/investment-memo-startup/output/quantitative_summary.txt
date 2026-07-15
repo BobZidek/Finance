@@ -1,0 +1,13 @@
+Startup: Vertex Retrieval (hypothetical vector database / RAG infrastructure startup)
+
+Current ARR: $2.4mm (24 customers)  |  NRR: 118%  |  Burn Multiple: 1.1x
+
+Proposed Series A: $12.0mm at $48.0mm pre-money ($60.0mm post-money, 25.0x current ARR)
+Ownership at close: 20.0%
+Effective ownership at exit (after 35% assumed future dilution): 13.0%
+
+=== Exit Scenarios ===
+Scenario  ExitValue_mm  InvestorPayout_mm  MOIC   IRR
+    Bear            80               10.4  0.87 -2.36
+    Base           400               52.0  4.33 27.68
+    Bull          1500              195.0 16.25 59.15

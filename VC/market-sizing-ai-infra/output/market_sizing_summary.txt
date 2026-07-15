@@ -1,0 +1,21 @@
+Sector: Vector Database & AI Retrieval Infrastructure
+
+Base Year (2026) TAM:
+  Top-Down:  $32.00bn
+  Bottom-Up: $7.50bn
+  Midpoint:  $19.75bn
+
+Year 2031 (Year 5) Projection:
+  Top-Down TAM:  $109.95bn
+  Bottom-Up TAM: $27.85bn
+  Midpoint TAM:  $68.90bn
+  SAM (35% of TAM): $24.11bn
+  SOM (1% of SAM): $0.24bn (=$241mm)
+
+=== Competitive Landscape ===
+                      CompetitorCategory                                                                                                   Description                                                                                                Strengths                                                                                                          Weaknesses ThreatLevel
+            Hyperscaler-native offerings Vector search/retrieval features built into major cloud providers' existing database and AI platform products            Deep platform integration; default choice for cloud-committed customers; massive distribution                              Often less specialized/performant than purpose-built tools; ties customer to one cloud        High
+    Open-source vector database projects                      Community-driven vector database and retrieval libraries, self-hosted or lightly managed                                                Free to adopt; strong developer mindshare; fast iteration                                        No dedicated support/SLA by default; operational burden on the adopting team      Medium
+    Specialized vector database startups                               Venture-backed companies purpose-built for vector search and retrieval at scale                                         Performance-optimized; developer-first UX; fast feature velocity                                              Smaller balance sheets; must prove enterprise-readiness and compliance        High
+Incumbent database vendors (retrofitted)          Established relational/NoSQL database vendors adding vector search capabilities to existing products                             Existing enterprise relationships and trust; one less vendor for procurement           Vector capability often bolted-on rather than architected for it; slower to match specialized performance      Medium
+     RAG/AI application framework layers                         Higher-level frameworks that abstract retrieval and can swap underlying vector stores Own the developer relationship at the application layer; can commoditize the database layer beneath them Not a full substitute for the underlying infrastructure; more a channel/competitive dynamic than direct competition      Medium

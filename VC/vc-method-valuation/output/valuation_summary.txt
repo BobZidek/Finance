@@ -1,0 +1,20 @@
+Startup: NovaCart (hypothetical SMB e-commerce checkout/payments infrastructure startup)
+
+Assumed Exit Value: $500mm in 6 years
+Required ROI: 15x
+Investment: $5.0mm
+Anticipated future dilution rounds: Series B (20%), Series C (15%)
+Retention Ratio (this investor's share surviving future dilution): 68.0%
+
+=== Naive VC Method (ignores future dilution) ===
+Required ownership: 15.0%
+Post-money valuation: $33.33mm
+Pre-money valuation: $28.33mm
+
+=== Dilution-Adjusted VC Method (correct) ===
+Target ownership at exit: 15.0%
+Required ownership TODAY (post future dilution, needs to be higher): 22.1%
+Post-money valuation: $22.67mm
+Pre-money valuation: $17.67mm
+
+Naive method overstates achievable pre-money valuation by $10.67mm (60.4%)

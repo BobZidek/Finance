@@ -1,0 +1,9 @@
+Company: Fieldwork (hypothetical B2B field service management SaaS)
+
+ARR growth: $1,030,000 (Q1) -> $4,750,000 (Q8)
+Latest quarter (Q8):
+  GRR: 97.3%   |   NRR: 103.7%
+  CAC: $52,381   |   LTV: $167,063   |   LTV:CAC: 3.2x
+  CAC Payback: 24.5 months
+  Burn Multiple: 0.88x
+  Magic Number: 3.15

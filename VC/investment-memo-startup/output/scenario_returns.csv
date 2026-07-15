@@ -1,0 +1,4 @@
+Scenario,ExitValue_mm,InvestorPayout_mm,MOIC,IRR
+Bear,80,10.4,0.87,-2.36
+Base,400,52.0,4.33,27.68
+Bull,1500,195.0,16.25,59.15

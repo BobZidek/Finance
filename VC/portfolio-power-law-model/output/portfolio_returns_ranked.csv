@@ -1,0 +1,21 @@
+Company,InvestmentAmount_mm,ExitMultiple,Outcome,Proceeds_mm,Rank,PctOfTotalProceeds,CumulativePctOfProceeds,CumulativePctOfDeals
+Company T,1.5,65.0,Fund returner,97.5,1,0.437,0.437,0.05
+Company S,1.5,25.0,Major winner,37.5,2,0.168,0.605,0.1
+Company R,1.5,18.0,Strong winner,27.0,3,0.121,0.726,0.15
+Company Q,1.5,12.0,Strong winner,18.0,4,0.081,0.806,0.2
+Company P,1.5,8.0,Good outcome,12.0,5,0.054,0.86,0.25
+Company O,1.5,6.0,Good outcome,9.0,6,0.04,0.901,0.3
+Company N,1.5,4.5,Good outcome,6.75,7,0.03,0.931,0.35
+Company M,1.5,3.0,Modest gain,4.5,8,0.02,0.951,0.4
+Company L,1.5,2.5,Modest gain,3.75,9,0.017,0.968,0.45
+Company K,1.5,1.8,Modest gain,2.7,10,0.012,0.98,0.5
+Company J,1.5,1.2,Modest gain,1.8,11,0.008,0.988,0.55
+Company I,1.5,1.0,Return of capital,1.5,12,0.007,0.995,0.6
+Company H,1.5,0.5,Partial loss,0.75,13,0.003,0.998,0.65
+Company G,1.5,0.3,Acqui-hire,0.45,14,0.002,1.0,0.7
+Company B,1.5,0.0,Shutdown,0.0,15,0.0,1.0,0.75
+Company A,1.5,0.0,Shutdown,0.0,16,0.0,1.0,0.8
+Company D,1.5,0.0,Shutdown,0.0,17,0.0,1.0,0.85
+Company C,1.5,0.0,Shutdown,0.0,18,0.0,1.0,0.9
+Company F,1.5,0.0,Shutdown,0.0,19,0.0,1.0,0.95
+Company E,1.5,0.0,Shutdown,0.0,20,0.0,1.0,1.0

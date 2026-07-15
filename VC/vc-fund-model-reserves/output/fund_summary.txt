@@ -1,0 +1,14 @@
+Fund: Northbridge Venture Partners II (hypothetical seed-stage VC fund)
+Committed Capital: $60mm  |  20% carry, no preferred return (straight 80/20 after return of capital)
+
+15 initial checks ($22.5mm total) + 5 follow-on checks ($15.0mm total) = $37.5mm total invested
+
+Total LP Capital Contributed (deals + fees): $46.1mm
+Total LP Distributions: $139.8mm
+Total GP Carry Earned: $23.4mm
+
+Gross Fund MOIC (deal-level, pre-fee/carry): 4.35x
+LP Net DPI/TVPI: 3.03x
+LP Net IRR: 27.5%
+
+The 5 companies that received follow-on capital contribute 95.1% of total fund proceeds, despite being only 33% of the portfolio by company count.

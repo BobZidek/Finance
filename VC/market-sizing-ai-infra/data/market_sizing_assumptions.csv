@@ -1,0 +1,12 @@
+Field,Value
+Sector,Vector Database & AI Retrieval Infrastructure
+BaseYear,2026
+ProjectionYears,5
+TopDown_GlobalEnterpriseSoftwareSpend_bn,800
+TopDown_PctAttributableToAIInfra,0.04
+TopDown_AnnualGrowthRate,0.28
+BottomUp_TargetEnterpriseCount,50000
+BottomUp_AvgAnnualSpendPerEnterprise_thousands,150
+BottomUp_AnnualGrowthRate,0.30
+SAM_PctOfTAM,0.35
+SOM_PctOfSAM_Year5,0.01
