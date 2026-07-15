@@ -1,0 +1,9 @@
+DealName,EntryYear,InvestedCapital_mm,HoldYears,DealMOIC,ExitYear,ExitProceeds_mm
+Deal A,1,60,5,2.8,6,168.0
+Deal B,1,55,4,1.9,5,104.5
+Deal C,2,70,6,3.2,8,224.0
+Deal D,2,50,5,1.4,7,70.0
+Deal E,3,65,4,0.6,7,39.0
+Deal F,3,45,5,2.2,8,99.0
+Deal G,4,60,5,2.5,9,150.0
+Deal H,4,55,4,1.1,8,60.5

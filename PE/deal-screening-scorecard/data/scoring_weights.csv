@@ -1,0 +1,6 @@
+Metric,Weight,HigherIsBetter
+RevenueGrowth_3yrCAGR,0.25,True
+EBITDAMargin,0.20,True
+NetDebt_EBITDA,0.20,False
+FCFConversion,0.20,True
+CustomerConcentration_pct,0.15,False

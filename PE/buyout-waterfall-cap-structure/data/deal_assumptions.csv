@@ -1,0 +1,14 @@
+Field,Value
+TargetName,Ironclad Security Systems (hypothetical B2B services company)
+EntryEBITDA_mm,45
+EntryMultiple,9.0
+TransactionFeePct,0.02
+LeverageMultiple,5.0
+DebtPaydownPctEBITDA,0.30
+EBITDAGrowthRate,0.07
+ExitMultiple,9.5
+HoldPeriodYears,5
+ManagementRollover_mm,15
+SponsorPreferredPct,0.90
+PreferredRate,0.08
+OptionPoolPctOfCommon,0.10

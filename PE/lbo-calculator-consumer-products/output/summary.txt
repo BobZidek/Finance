@@ -1,0 +1,15 @@
+Target: Meadow Brands (hypothetical consumer packaged goods company)
+
+Entry EV (8.50x EBITDA): $340.0mm
+Entry Debt (4.5x EBITDA): $180.0mm
+Sponsor Equity: $160.0mm
+
+Exit EBITDA (Year 5): $53.5mm
+Exit EV (8.50x): $455.0mm
+Remaining Debt at Exit: $108.3mm
+Exit Equity: $346.7mm
+
+Levered MOIC: 2.17x   |   Levered IRR: 16.7%
+Unlevered (100% equity) MOIC: 1.34x   |   Unlevered IRR: 6.0%
+
+Leverage contribution to IRR: 10.7 points

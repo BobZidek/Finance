@@ -1,0 +1,18 @@
+Platform: Summit Health Staffing (hypothetical healthcare staffing platform)
+
+Weighted-average entry multiple across platform + 3 bolt-ons: 7.18x
+Exit multiple (platform/scale premium): 9.5x
+Multiple arbitrage: +2.32x
+
+Combined Exit EBITDA (Year 5): $71.1mm
+Exit EV: $675.0mm
+Exit Debt: $109.6mm
+Exit Equity: $565.4mm
+
+Total Equity Invested (across all 4 acquisitions): $205.4mm
+  Year 0: $109.8mm
+  Year 1: $29.0mm
+  Year 2: $41.3mm
+  Year 3: $25.3mm
+
+MOIC: 2.75x   |   IRR: 27.1%

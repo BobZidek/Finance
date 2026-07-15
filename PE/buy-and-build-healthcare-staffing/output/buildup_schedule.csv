@@ -1,0 +1,7 @@
+Year,AcquisitionsThisYear,NewDebtDrawn_mm,NewEquityInvested_mm,CombinedEBITDA_mm,BeginningDebt_mm,DebtPaydown_mm,EndingDebt_mm
+0,Summit Health Staffing (hypothetical healthcare staffing platform),135.0,109.8,30.0,135.0,0.0,135.0
+1,Bolt-on 1 (regional nurse staffing),20.0,28.96,39.5,155.0,11.85,143.15
+2,Bolt-on 2 (allied health staffing),25.0,41.3,52.08,168.15,15.62,152.53
+3,Bolt-on 3 (locum tenens agency),17.5,25.34,63.0,170.03,18.9,151.13
+4,-,0.0,0.0,67.33,151.13,20.2,130.93
+5,-,0.0,0.0,71.06,130.93,21.32,109.61

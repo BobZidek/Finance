@@ -1,0 +1,17 @@
+Field,Value
+TargetName,Vertex Business Solutions (hypothetical outsourced business services / BPO company)
+EntryRevenue_mm,340
+EntryEBITDA_mm,55
+EntryMultiple,9.5
+ExitMultiple,9.5
+TransactionFeePct,0.02
+RevolverCapacity_mm,20
+RevolverRate,0.075
+RevolverCommitmentFee,0.005
+TermLoanTurns,4.0
+TermLoanRate,0.08
+TermLoanMandatoryAmortPct,0.05
+SubNotesTurns,1.5
+SubNotesRate,0.115
+TaxRate,0.25
+MaxForecastYears,7

@@ -1,0 +1,12 @@
+Target: Anchor Point Building Supply (hypothetical specialty retail / building products distributor)
+
+Entry Equity: $139.1mm
+  Revenue Growth contribution:    $+122.4mm
+  Margin Expansion contribution:  $+56.7mm
+  Multiple Expansion contribution:$+60.4mm
+  Deleveraging contribution:      $+70.1mm
+  Transaction Fees:                $-6.1mm
+Exit Equity: $442.6mm
+
+Reconciliation check (sum of bridge components == actual equity growth): PASS
+MOIC: 3.18x   |   IRR: 26.0%

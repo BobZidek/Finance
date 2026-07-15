@@ -1,0 +1,11 @@
+Rank,Company,Sector,RevenueGrowth_3yrCAGR,EBITDAMargin,NetDebt_EBITDA,FCFConversion,CustomerConcentration_pct,CompositeScore
+1,Clearwater Pool Services,Consumer Services,0.14,0.24,1.8,0.8,0.03,1.112
+2,Coastal Marina Management,Leisure / Real Assets,0.08,0.3,1.6,0.85,0.06,0.945
+3,Vantage Industrial Coatings,Industrials,0.06,0.22,1.5,0.75,0.15,0.179
+4,Ironclad Security Systems,B2B Services,0.1,0.2,2.2,0.7,0.12,0.173
+5,Ridgeline Outdoor Gear,Consumer Products,0.09,0.18,2.0,0.65,0.08,0.061
+6,Alpine Specialty Chemicals,Chemicals,0.07,0.26,2.0,0.72,0.25,-0.013
+7,BrightPath Education Services,Education,0.12,0.16,2.8,0.55,0.05,-0.157
+8,Meridian Dental Partners,Healthcare Services,0.11,0.19,3.5,0.58,0.04,-0.263
+9,Northgate Auto Parts Distribution,Distribution,0.04,0.12,2.5,0.68,0.18,-0.8
+10,Summit Freight Solutions,Logistics,0.05,0.1,3.2,0.6,0.22,-1.236

@@ -1,0 +1,14 @@
+Target: Vertex Business Solutions (hypothetical outsourced business services / BPO company)
+
+=== Sources & Uses ===
+Entry EV (9.5x EBITDA): $522.5mm
+Term Loan (4.0x @ 8.0%): $220.0mm
+Subordinated Notes (1.5x @ 11.5%): $82.5mm
+Revolver Capacity (undrawn at close): $20.0mm
+Sponsor Equity: $230.5mm
+
+=== Exit Scenarios ===
+ ExitYear  ExitEBITDA_mm  ExitEV_mm  RemainingDebt_mm  ExitEquity_mm  MOIC   IRR
+        3          70.81     672.67            240.54         432.13  1.88 23.31
+        5          80.96     769.15            175.16         593.99  2.58 20.85
+        7          91.15     865.96             88.10         777.86  3.38 18.98

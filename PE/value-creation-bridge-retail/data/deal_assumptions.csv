@@ -1,0 +1,12 @@
+Field,Value
+TargetName,Anchor Point Building Supply (hypothetical specialty retail / building products distributor)
+EntryRevenue_mm,210
+EntryEBITDA_mm,38
+EntryMultiple,8.0
+ExitMultiple,9.0
+TransactionFeePct,0.02
+LeverageMultiple,4.5
+DebtPaydownPctEBITDA,0.30
+RevenueGrowthRate,0.07
+ExitEBITDAMargin,0.205
+HoldPeriodYears,5

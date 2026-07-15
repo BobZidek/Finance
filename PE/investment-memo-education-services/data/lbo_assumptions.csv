@@ -1,0 +1,18 @@
+Field,Value
+TargetName,Horizon Learning Partners (hypothetical K-12 supplemental education / tutoring platform)
+EntryRevenue_mm,155
+EntryEBITDA_mm,32
+EntryMultiple,8.5
+ExitMultiple,9.0
+TransactionFeePct,0.02
+RevolverCapacity_mm,15
+RevolverRate,0.08
+RevolverCommitmentFee,0.005
+TermLoanTurns,4.0
+TermLoanRate,0.0825
+TermLoanMandatoryAmortPct,0.05
+SubNotesTurns,1.5
+SubNotesRate,0.1175
+CashSweepPct,0.75
+TaxRate,0.25
+HoldPeriodYears,5

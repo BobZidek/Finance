@@ -1,0 +1,23 @@
+Target: Ironclad Security Systems (hypothetical B2B services company)
+
+=== Sources & Uses ===
+Entry EV (9.0x EBITDA): $405.0mm
+Debt (5.0x EBITDA): $225.0mm
+Total Equity Required: $188.1mm
+  Sponsor Preferred: $155.8mm (8% cumulative, participating)
+  Sponsor Common: $17.3mm
+  Management Rollover: $15.0mm
+  Management Option Pool: 10% of fully diluted common (3.59mm units)
+
+=== Exit (Year 5) ===
+Exit EBITDA: $63.1mm
+Exit EV (9.5x): $599.6mm
+Remaining Debt: $141.9mm
+Exit Equity Value: $457.7mm
+
+=== Waterfall Distribution ===
+                 Class  InvestedCapital_mm  ReturnOfCapital_mm  AccruedPrefReturn_mm  CommonParticipation_mm  TotalProceeds_mm  MOIC
+     Sponsor Preferred              155.79              155.79                 73.12                  185.91            414.82  2.66
+        Sponsor Common               17.31                0.00                  0.00                   20.66             20.66  1.19
+   Management Rollover               15.00                0.00                  0.00                   17.90             17.90  1.19
+Management Option Pool                0.00                0.00                  0.00                    4.28              4.28   NaN

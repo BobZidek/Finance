@@ -1,0 +1,13 @@
+Fund: Meridian Growth Partners III (hypothetical buyout fund)
+Committed Capital: $500mm  |  20% carry / 8% preferred return, European (whole-fund) waterfall
+
+Total LP Capital Contributed (deals + fees): $522.7mm
+Total LP Distributions: $836.5mm
+Total GP Carry Earned: $78.5mm
+
+Gross Fund MOIC (deal-level, pre-fee/carry): 1.99x
+LP Net DPI: 1.60x
+LP Net TVPI: 1.60x
+LP Net IRR: 10.8%
+
+Fee + Carry drag (Gross MOIC - LP Net TVPI): 0.39x
