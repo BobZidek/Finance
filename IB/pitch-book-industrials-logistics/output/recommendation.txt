@@ -1,0 +1,13 @@
+=== Valuation Summary: Vanguard Logistics Solutions (hypothetical private 3PL / freight brokerage and warehousing company) ===
+
+Trading Comps: $1,484mm - $2,040mm (mid $1,999mm)
+Precedent Transactions: $1,029mm - $1,239mm (mid $1,102mm)
+DCF: $1,070mm - $1,361mm (mid $1,199mm)
+LBO Ability-to-Pay: $854mm - $1,018mm (mid $923mm)
+
+Full range across all methods: $854mm - $2,040mm
+
+=== Recommendation ===
+Core recommended range (overlap of DCF and Precedent Transactions, the two most target-specific methods): $1,070mm - $1,239mm. Trading comps are treated as a sanity check rather than the primary anchor, since the public peer set mixes an asset-light freight brokerage with asset-heavy carriers that trade at structurally different multiples, widening that range well beyond the others.
+
+Notably, the LBO ability-to-pay ceiling ($1,018mm) sits $52mm below the bottom of the core range - a financial sponsor cannot underwrite synergies the way a strategic acquirer can, so at this valuation level financial sponsors are likely priced out of the process. Recommend running a targeted strategic-buyer process rather than a broad auction that assumes sponsor participation at the core price.

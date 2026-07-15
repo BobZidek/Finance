@@ -1,0 +1,20 @@
+Target: BrightSmile Dental Partners (hypothetical dental/vet roll-up platform)
+
+=== Sources & Uses ===
+Entry EV (10.0x EBITDA): $600.0mm
+Transaction Fees: $12.0mm
+Total Uses: $612.0mm
+
+Term Loan (4.0x EBITDA @ 8.0%): $240.0mm
+Subordinated Notes (1.5x EBITDA @ 11.0%): $90.0mm
+Total Debt: $330.0mm (5.5x EBITDA)
+Sponsor Equity: $282.0mm
+
+=== Exit (Year 5) ===
+Exit EBITDA: $95.5mm
+Exit EV (10.0x): $955.5mm
+Remaining Debt at Exit: $202.7mm
+Exit Equity Value: $752.7mm
+
+MOIC: 2.67x
+IRR: 21.7%

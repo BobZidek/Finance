@@ -1,0 +1,15 @@
+Field,Value
+TargetName,BrightSmile Dental Partners (hypothetical dental/vet roll-up platform)
+EntryRevenue_mm,300
+EntryEBITDA_mm,60
+EntryMultiple,10.0
+ExitMultiple,10.0
+TransactionFeePct,0.02
+TermLoanTurns,4.0
+SubNotesTurns,1.5
+TermLoanRate,0.08
+SubNotesRate,0.11
+TermLoanMandatoryAmortPct,0.05
+CashSweepPct,0.75
+TaxRate,0.26
+HoldPeriodYears,5

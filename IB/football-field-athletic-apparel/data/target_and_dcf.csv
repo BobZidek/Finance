@@ -1,0 +1,19 @@
+Field,Value
+TargetName,Apex Trailhead Apparel (hypothetical private athletic apparel brand)
+Revenue_LTM_mm,620
+EBITDA_LTM_mm,95
+EBIT_LTM_mm,78
+NetIncome_LTM_mm,45
+NetDebt_mm,150
+RevenueGrowthY1,0.12
+RevenueGrowthY2,0.11
+RevenueGrowthY3,0.10
+RevenueGrowthY4,0.09
+RevenueGrowthY5,0.08
+EBITDAMarginTerminal,0.135
+TaxRate,0.24
+DA_pctRevenue,0.03
+Capex_pctRevenue,0.035
+NWC_pctRevenue,0.01
+WACC,0.095
+TerminalGrowthRate,0.03

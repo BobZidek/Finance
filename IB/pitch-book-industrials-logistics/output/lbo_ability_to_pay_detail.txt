@@ -1,0 +1,3 @@
+Target IRR hurdle: 22% -> max entry multiple 8.79x -> implied EV $923.0mm
+Conservative sponsor (24% hurdle): max entry multiple 8.14x -> implied EV $854.4mm
+Aggressive sponsor (20% hurdle): max entry multiple 9.70x -> implied EV $1,018.2mm

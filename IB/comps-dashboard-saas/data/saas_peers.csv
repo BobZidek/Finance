@@ -1,0 +1,14 @@
+Ticker,Company,EV_mm,Revenue_LTM_mm,RevenueGrowth_YoY,FCFMargin
+CRM,Salesforce Inc.,280000,37900,0.09,0.32
+NOW,ServiceNow Inc.,205000,11100,0.22,0.31
+WDAY,Workday Inc.,68000,8200,0.16,0.24
+ADBE,Adobe Inc.,220000,21900,0.11,0.38
+INTU,Intuit Inc.,175000,16700,0.13,0.28
+TEAM,Atlassian Corp,44000,4600,0.20,0.24
+DDOG,Datadog Inc.,38000,2700,0.25,0.20
+SNOW,Snowflake Inc.,45000,3400,0.26,0.15
+CRWD,CrowdStrike Holdings,78000,3900,0.29,0.26
+ZS,Zscaler Inc.,28000,2300,0.24,0.21
+HUBS,HubSpot Inc.,26000,2600,0.18,0.12
+MDB,MongoDB Inc.,20000,2000,0.17,0.08
+NET,Cloudflare Inc.,32000,1700,0.27,0.09

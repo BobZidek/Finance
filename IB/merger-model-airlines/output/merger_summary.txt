@@ -1,0 +1,17 @@
+Acquirer: Continental Skyways (hypothetical major airline)
+Target: Pacific Crest Airlines (hypothetical mid-size airline)
+
+Offer Price per Share: $23.40 (30% premium)
+Purchase Equity Value: $2,223.0mm
+  Cash Consideration (40%): $889.2mm (new debt @ 7.0%)
+  Stock Consideration (60%): $1,333.8mm -> 41.68mm new shares issued
+
+Acquirer Standalone EPS: $2.64
+
+=== 3-Year Pro Forma ===
+ Year  CostSynergy_mm  RevenueSynergyEBIT_mm  CombinedEBIT_mm  CombinedEBITDA_mm  CombinedInterest_mm  ProFormaNetIncome_mm  ProFormaEPS  AccretionDilution_pct  ProFormaLeverage_x  OneTimeIntegrationCost_mm
+    1            88.0                    6.4           2131.4             3551.4               548.24               1219.03         2.89                   9.32                2.67                      210.0
+    2           165.0                   25.6           2227.6             3647.6               548.24               1293.10         3.07                  15.97                2.60                      140.0
+    3           220.0                   44.8           2301.8             3721.8               548.24               1350.24         3.20                  21.09                2.55                        0.0
+
+One-time integration costs ($350mm total, excluded from recurring pro forma EPS above) are phased 60% Year 1 / 40% Year 2.

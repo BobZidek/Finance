@@ -1,0 +1,14 @@
+Ticker,Company,EV_Revenue,RevenueGrowth_YoY,FCFMargin,RuleOf40,PredictedEV_Revenue,Residual,Valuation_Flag
+CRM,Salesforce Inc.,7.39,0.09,0.32,41.0,6.87,0.52,Fairly Valued
+NOW,ServiceNow Inc.,18.47,0.22,0.31,53.0,13.67,4.8,Overvalued
+WDAY,Workday Inc.,8.29,0.16,0.24,40.0,10.53,-2.24,Undervalued
+ADBE,Adobe Inc.,10.05,0.11,0.38,49.0,7.92,2.13,Overvalued
+INTU,Intuit Inc.,10.48,0.13,0.28,41.0,8.96,1.52,Overvalued
+TEAM,Atlassian Corp,9.57,0.2,0.24,44.0,12.62,-3.06,Undervalued
+DDOG,Datadog Inc.,14.07,0.25,0.2,45.0,15.24,-1.17,Fairly Valued
+SNOW,Snowflake Inc.,13.24,0.26,0.15,41.0,15.76,-2.53,Undervalued
+CRWD,CrowdStrike Holdings,20.0,0.29,0.26,55.0,17.33,2.67,Overvalued
+ZS,Zscaler Inc.,12.17,0.24,0.21,45.0,14.72,-2.54,Undervalued
+HUBS,HubSpot Inc.,10.0,0.18,0.12,30.0,11.58,-1.58,Undervalued
+MDB,MongoDB Inc.,10.0,0.17,0.08,25.0,11.05,-1.05,Fairly Valued
+NET,Cloudflare Inc.,18.82,0.27,0.09,36.0,16.29,2.54,Overvalued

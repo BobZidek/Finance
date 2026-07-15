@@ -1,0 +1,4 @@
+method,low,mid,high,low_mult,high_mult
+Trading Comps (EV/EBITDA),735.9,1540.7,1722.0,7.7,18.1
+Precedent Transactions (EV/EBITDA),1147.1,1239.8,1375.1,12.1,14.5
+DCF (WACC +/- 0.75%),784.7,876.1,991.3,,

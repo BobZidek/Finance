@@ -1,0 +1,8 @@
+Target: Apex Trailhead Apparel (hypothetical private athletic apparel brand)
+
+Trading Comps (EV/EBITDA): $736mm - $1,722mm  (midpoint $1,541mm)
+Precedent Transactions (EV/EBITDA): $1,147mm - $1,375mm  (midpoint $1,240mm)
+DCF (WACC +/- 0.75%): $785mm - $991mm  (midpoint $876mm)
+
+Overall implied EV range across all methods: $736mm - $1,722mm
+Overall implied Equity Value range (EV - Net Debt of $150mm): $586mm - $1,572mm

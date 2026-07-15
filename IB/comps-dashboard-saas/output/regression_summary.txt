@@ -1,0 +1,8 @@
+Regression: EV/Revenue = 2.16 + 52.31 x Revenue Growth
+R-squared: 0.639
+
+Target: Vantage Cloud Software (hypothetical private SaaS company)
+Target Revenue Growth: 20.0%
+
+Flat Median Multiple Approach: 10.48x -> EV $4,715.6mm -> Equity $4,765.6mm
+Growth-Regression Approach: 12.62x -> EV $5,680.9mm -> Equity $5,730.9mm
