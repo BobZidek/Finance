@@ -1,0 +1,12 @@
+=== Model Evaluation (Out-of-Sample Test Set) ===
+        Model    MSE  DirectionalAccuracy  InformationCoefficient
+        Ridge 0.0001               0.5000                  0.0326
+Random Forest 0.0001               0.5132                  0.0027
+
+=== Backtest Performance ===
+        Model             Type  TotalReturn  AnnReturn  AnnVol  Sharpe  MaxDrawdown
+        Ridge Gross (no costs)      -0.1934    -0.1249  0.1876 -0.8789      -0.4204
+        Ridge Net (with costs)      -0.2238    -0.1504  0.1875 -1.0157      -0.4364
+Random Forest Gross (no costs)      -0.1584    -0.0967  0.1877 -0.7285      -0.3755
+Random Forest Net (with costs)      -0.2440    -0.1680  0.1869 -1.1129      -0.4158
+   Buy & Hold              N/A       0.7613     0.3929  0.1861  1.8960      -0.1206

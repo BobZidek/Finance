@@ -1,0 +1,11 @@
+Underlying: Synthetic Equity Index (SYNTH)
+Spot: $100.00  |  Strike: $105.00  |  Time to Expiry: 0.50 years  |  Risk-Free Rate: 4.00%  |  Volatility: 25.00%
+
+OptionType  Price   Delta  Gamma   Vega   Theta     Rho
+      Call 5.7799  0.4703 0.0225 0.2813 -0.0238  0.2063
+       Put 8.7008 -0.5297 0.0225 0.2813 -0.0125 -0.3083
+
+=== Put-Call Parity Check ===
+C - P = -2.9209
+S - PV(K) = -2.9209
+Difference: 0.0000000000 (should be ~0)

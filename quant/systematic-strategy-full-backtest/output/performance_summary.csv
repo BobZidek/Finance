@@ -1,0 +1,4 @@
+Version,TotalReturn,AnnReturn,AnnVol,Sharpe,MaxDrawdown
+Net of Costs (vol-targeted),0.3679,0.1089,0.0914,0.7544,-0.0982
+"Gross (vol-targeted, no costs)",0.4875,0.1371,0.0908,1.0698,-0.0762
+Unscaled Raw Signal,0.5962,0.1609,0.0906,1.334,-0.0692

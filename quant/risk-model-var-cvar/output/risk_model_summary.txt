@@ -1,0 +1,13 @@
+Portfolio Value: $10,000,000
+Sample size: 756 trading days
+
+ ConfidenceLevel                  Method  VaR_pct  CVaR_pct  VaR_dollar  CVaR_dollar  Exceedances  ExpectedExceedances  ExceedanceRate
+            0.95              Historical   0.0092    0.0132  92338.1165  131771.7657           38                37.80          0.0503
+            0.95     Parametric (Normal)   0.0090    0.0112  89822.1222  112219.0281           41                37.80          0.0542
+            0.95 Monte Carlo (Student-t)   0.0082    0.0123  82189.5828  122711.8976           46                37.80          0.0608
+            0.99              Historical   0.0159    0.0202 159292.4315  201998.5576            8                 7.56          0.0106
+            0.99     Parametric (Normal)   0.0126    0.0145 126349.6493  144512.6048           14                 7.56          0.0185
+            0.99 Monte Carlo (Student-t)   0.0144    0.0203 143835.5911  203228.2742           11                 7.56          0.0146
+
+=== Key Finding ===
+At 99% confidence, Historical VaR exceeds Parametric (Normal) VaR by $32,943 - the normal distribution assumption understates tail risk for this fat-tailed portfolio.

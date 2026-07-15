@@ -1,0 +1,13 @@
+=== Engle-Granger Cointegration Test ===
+Hedge Ratio (OLS beta): 0.6578
+ADF test on residual spread: statistic=-2.8739, p-value=0.048462
+  -> STATIONARY (cointegrated) at 5% significance
+statsmodels coint() cross-check: statistic=-2.8777, p-value=0.142197
+
+=== Backtest Performance ===
+Number of trades: 7
+TotalReturn: 0.3375
+AnnReturn: 0.1524
+AnnVol: 0.1080
+Sharpe: 1.0404
+MaxDrawdown: -0.0655

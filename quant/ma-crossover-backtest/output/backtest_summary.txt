@@ -1,0 +1,16 @@
+=== Moving-Average Crossover Backtest ===
+
+Short window: 50 days | Long window: 200 days
+Number of position changes (trades): 3
+Daily win rate while in position: 50.2%
+
+     Strategy  TotalReturn   CAGR  AnnVol  Sharpe  MaxDrawdown
+SMA Crossover       0.1252 0.0401  0.1499  0.0702      -0.2111
+   Buy & Hold       0.2500 0.0772  0.1865  0.2774      -0.2298
+
+=== By Regime ===
+                 BuyHold_Return  Strategy_Return
+Regime                                          
+Choppy/Sideways          0.0661           0.0364
+Strong Uptrend           0.0431          -0.0267
+Uptrend                  0.1240           0.1155

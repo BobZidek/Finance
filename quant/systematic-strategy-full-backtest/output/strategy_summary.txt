@@ -1,0 +1,16 @@
+=== Systematic Strategy Backtest Summary ===
+
+                       Version  TotalReturn  AnnReturn  AnnVol  Sharpe  MaxDrawdown
+   Net of Costs (vol-targeted)       0.3679     0.1089  0.0914  0.7544      -0.0982
+Gross (vol-targeted, no costs)       0.4875     0.1371  0.0908  1.0698      -0.0762
+           Unscaled Raw Signal       0.5962     0.1609  0.0906  1.3340      -0.0692
+
+Total turnover-based transaction costs over backtest: 8.45%
+
+=== Performance Attribution (regression of net returns on factor returns) ===
+R-squared: 0.756
+
+  Factor   Beta  PValue  CumulativeContribution
+   Value 0.2931  0.0025                  0.0339
+Momentum 0.4404  0.0000                  0.0661
+ Quality 0.5814  0.0000                  0.2574

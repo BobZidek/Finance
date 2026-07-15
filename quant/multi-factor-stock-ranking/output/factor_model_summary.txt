@@ -1,0 +1,17 @@
+=== Multi-Factor Stock Ranking ===
+
+   Factor  InformationCoefficient  PValue
+    Value                  0.3817  0.0005
+ Momentum                  0.2879  0.0096
+  Quality                  0.2162  0.0541
+Composite                  0.5084  0.0000
+
+=== Quintile Average Forward Returns ===
+             Quintile  ForwardReturn_1m
+Q1 (Cheapest/Weakest)           -0.0643
+                   Q2           -0.0160
+                   Q3           -0.0160
+                   Q4            0.0152
+            Q5 (Best)            0.0371
+
+Long-Short (Q5 - Q1) 1-month return: 10.14%

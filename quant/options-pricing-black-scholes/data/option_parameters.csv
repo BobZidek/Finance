@@ -1,0 +1,7 @@
+Field,Value
+UnderlyingName,Synthetic Equity Index (SYNTH)
+SpotPrice,100
+StrikePrice,105
+TimeToExpiryYears,0.5
+RiskFreeRate,0.04
+Volatility,0.25

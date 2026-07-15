@@ -1,0 +1,9 @@
+Asset,ExpectedReturn,Volatility
+US Large Cap Equity,0.090,0.16
+US Small Cap Equity,0.110,0.22
+Intl Developed Equity,0.075,0.18
+Emerging Markets Equity,0.100,0.24
+US Investment Grade Bonds,0.045,0.06
+US High Yield Bonds,0.065,0.10
+Real Estate (REITs),0.080,0.19
+Commodities,0.050,0.17
