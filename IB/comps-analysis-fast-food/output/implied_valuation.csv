@@ -1,0 +1,4 @@
+Percentile,EV_Revenue_Multiple,Implied_EV_from_Revenue_mm,Implied_Equity_from_Revenue_mm,EV_EBITDA_Multiple,Implied_EV_from_EBITDA_mm,Implied_Equity_from_EBITDA_mm
+25th Pctile,3.74,3179.0,2979.0,15.86,2220.4,2020.4
+Median,4.47,3799.5,3599.5,20.22,2830.8,2630.8
+75th Pctile,6.11,5193.5,4993.5,25.6,3584.0,3384.0

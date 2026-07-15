@@ -1,0 +1,16 @@
+Company: Texas Instruments Incorporated (TXN)
+Cost of Equity (CAPM): 10.35%
+After-tax Cost of Debt: 3.60%
+WACC: 9.68%
+Terminal Growth Rate: 2.50%
+
+Sum of PV of FCFs: $17,483mm
+Terminal Value (undiscounted): $83,630mm
+PV of Terminal Value: $52,702mm
+% of EV from Terminal Value: 75.1%
+
+Enterprise Value: $70,184mm
+Net Debt: $7,900mm
+Equity Value: $62,284mm
+Shares Outstanding: 910mm
+Implied Share Price: $68.44

@@ -1,0 +1,16 @@
+Field,Value
+Acquirer_Name,Meridian Bancorp (hypothetical regional bank)
+Target_Name,Heritage State Bank (hypothetical regional bank)
+Acquirer_NetIncome_mm,420
+Acquirer_DilutedShares_mm,140
+Acquirer_SharePrice,45.00
+Target_NetIncome_mm,85
+Target_DilutedShares_mm,40
+Target_SharePrice_PreDeal,28.00
+Target_BookValueEquity_mm,600
+Premium,0.25
+CashPct,0.50
+NewDebtInterestRate,0.06
+TaxRate,0.21
+AnnualPreTaxSynergies_mm,30
+OneTimeDealCosts_mm,45

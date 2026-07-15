@@ -1,0 +1,15 @@
+Field,Value
+Company,Texas Instruments Incorporated (TXN)
+BaseRevenue_mm,16000
+TaxRate,0.20
+RiskFreeRate,0.043
+EquityRiskPremium,0.055
+Beta,1.10
+PreTaxCostOfDebt,0.045
+DebtWeight,0.10
+EquityWeight,0.90
+TerminalGrowthRate,0.025
+SharesOutstanding_mm,910
+TotalDebt_mm,9900
+CashAndInvestments_mm,2000
+ForecastYears,5

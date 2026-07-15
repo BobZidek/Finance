@@ -1,0 +1,8 @@
+Ticker,Company,Price,SharesOut_mm,TotalDebt_mm,Cash_mm,MinorityInterest_mm,PreferredEquity_mm,Revenue_LTM_mm,EBITDA_LTM_mm,EBIT_LTM_mm,NetIncome_LTM_mm,DilutedEPS
+MCD,McDonald's Corporation,295.00,720,37000,2000,0,0,25900,13500,11900,8200,11.50
+YUM,Yum! Brands Inc.,135.00,275,12000,600,0,0,7500,2400,2100,1300,4.70
+QSR,Restaurant Brands International,68.00,315,14500,1100,0,0,8400,2600,2200,1200,3.90
+WEN,The Wendy's Company,17.00,195,2600,350,0,0,2100,480,350,150,0.74
+SHAK,Shake Shack Inc.,95.00,42,350,350,0,0,1200,120,60,30,0.55
+DPZ,Domino's Pizza Inc.,460.00,34.5,5300,160,0,0,4700,870,750,490,13.90
+CMG,Chipotle Mexican Grill,58.00,1150,400,2200,0,0,11300,2400,2000,1500,1.30

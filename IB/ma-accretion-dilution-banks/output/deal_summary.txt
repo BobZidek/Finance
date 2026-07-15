@@ -1,0 +1,23 @@
+Acquirer: Meridian Bancorp (hypothetical regional bank)
+Target: Heritage State Bank (hypothetical regional bank)
+
+Offer Price per Share: $35.00 (25% premium)
+Total Purchase Price: $1,400.0mm
+  Cash Consideration (50%): $700.0mm (financed via new debt @ 6.0%)
+  Stock Consideration (50%): $700.0mm -> 15.56mm new shares issued
+Implied Goodwill Created: $800.0mm
+
+After-tax Annual Synergies: $23.7mm
+After-tax Incremental Interest Expense: $33.2mm
+
+Acquirer Standalone Net Income: $420.0mm
+Acquirer Standalone EPS: $3.00
+Pro Forma Combined Net Income: $495.5mm
+Pro Forma Diluted Shares: 155.56mm
+Pro Forma EPS: $3.19
+Accretion / (Dilution): +6.18%
+
+Break-even annual pre-tax synergies (EPS-neutral): $-6.5mm
+(Base case assumes $30mm pre-tax synergies -> deal is accretive with headroom of $36.5mm before turning dilutive)
+
+One-time deal/integration costs (excluded from recurring pro forma EPS): $45mm
