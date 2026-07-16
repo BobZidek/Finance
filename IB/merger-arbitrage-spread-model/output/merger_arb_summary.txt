@@ -1,0 +1,29 @@
+Target: Vantage Pharma Solutions (hypothetical target, all-cash acquisition by Titan Health Corp)
+
+Deal Price: $52.00  |  Current Price: $49.50  |  Pre-Announcement Price: $38.00
+Downside Price if Deal Breaks: $40.00
+Days to Close: 182
+
+Gross Spread: $2.50 (5.05%)
+Annualized Spread (assuming certain close): 10.10%
+Downside if Deal Breaks: 19.19%
+
+Market-Implied Probability of Close: 79.17%
+  (Note: this is, by construction, also the breakeven probability - the current price already reflects zero expected return at exactly this probability.)
+
+=== Analyst's View (assumed 90% probability of close) ===
+Expected Price: $50.80
+Expected Return to Close: 2.63%
+Annualized Expected Return: 5.25%
+
+=== Probability Sensitivity ===
+ AssumedProbability  ExpectedPrice  ExpectedReturn_pct  AnnualizedExpectedReturn_pct
+               0.50          46.00               -7.07                        -14.14
+               0.60          47.20               -4.65                         -9.29
+               0.70          48.40               -2.22                         -4.44
+               0.75          49.00               -1.01                         -2.02
+               0.80          49.60                0.20                          0.40
+               0.85          50.20                1.41                          2.83
+               0.90          50.80                2.63                          5.25
+               0.95          51.40                3.84                          7.68
+               0.99          51.88                4.81                          9.62

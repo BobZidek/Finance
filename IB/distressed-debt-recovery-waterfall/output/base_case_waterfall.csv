@@ -1,0 +1,7 @@
+Rank,Tranche,ParAmount_mm,Type,Recovery_mm,RecoveryPct
+1,ABL Revolver (super-senior secured),80,Secured,80.0,1.0
+2,First Lien Term Loan,320,Secured,320.0,1.0
+3,Second Lien Notes,150,Secured,55.0,0.367
+4,Senior Unsecured Notes,200,Unsecured,0.0,0.0
+5,Subordinated Notes,100,Unsecured,0.0,0.0
+6,Common Equity,0,Equity,0.0,

@@ -1,0 +1,17 @@
+Company: Crestline Media Networks (hypothetical cable/media company, PE-owned)
+
+=== Credit Metrics: Pre- vs. Post-Recap ===
+  Scenario  Debt_mm  EBITDA_mm  Interest_mm  Leverage_x  Coverage_x ImpliedRating
+ Pre-Recap    650.0      180.0        52.00       3.611       3.462          B+/B
+Post-Recap    900.0      180.0        75.75       5.000       2.376       B-/CCC+
+
+New debt raised: $250mm @ 9.5%
+Dividend paid to sponsor: $250mm
+
+=== Sponsor Returns: With vs. Without Recap ===
+                      Scenario  InterimDividend_mm  ExitEquity_mm  TotalProceeds_mm  MOIC   IRR
+           With Dividend Recap               250.0        1037.20           1287.20  4.02 40.05
+Without Recap (counterfactual)                 0.0        1363.89           1363.89  4.26 33.64
+
+IRR impact of the recap: +6.4 percentage points
+MOIC impact of the recap: -0.24x

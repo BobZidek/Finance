@@ -1,0 +1,3 @@
+Scenario,InterimDividend_mm,ExitEquity_mm,TotalProceeds_mm,MOIC,IRR
+With Dividend Recap,250.0,1037.2,1287.2,4.02,40.05
+Without Recap (counterfactual),0.0,1363.89,1363.89,4.26,33.64

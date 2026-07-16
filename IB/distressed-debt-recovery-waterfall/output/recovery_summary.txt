@@ -1,0 +1,17 @@
+Company: Anchorage Retail Holdings (hypothetical distressed retail chain, Chapter 11 scenario)
+
+Total Funded Debt: $850mm
+Reorganization Enterprise Value: $70mm EBITDA x 6.5x = $455mm
+Implied overall impairment: -46.5% of total debt claims
+
+=== Base Case Recovery Waterfall ===
+ Rank                             Tranche  ParAmount_mm  Recovery_mm  RecoveryPct
+    1 ABL Revolver (super-senior secured)            80         80.0        1.000
+    2                First Lien Term Loan           320        320.0        1.000
+    3                   Second Lien Notes           150         55.0        0.367
+    4              Senior Unsecured Notes           200          0.0        0.000
+    5                  Subordinated Notes           100          0.0        0.000
+    6                       Common Equity             0          0.0          NaN
+
+Fulcrum Security: Second Lien Notes
+(The fulcrum security is the tranche where recovery value runs out mid-claim - in a real restructuring, holders of this tranche typically receive the new equity of the reorganized company, making them the fulcrum security's true economic owners.)

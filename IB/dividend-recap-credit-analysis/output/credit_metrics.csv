@@ -1,0 +1,3 @@
+Scenario,Debt_mm,EBITDA_mm,Interest_mm,Leverage_x,Coverage_x,ImpliedRating
+Pre-Recap,650.0,180.0,52.0,3.611,3.462,B+/B
+Post-Recap,900.0,180.0,75.75,5.0,2.376,B-/CCC+

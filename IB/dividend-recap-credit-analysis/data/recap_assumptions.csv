@@ -1,0 +1,15 @@
+Field,Value
+CompanyName,"Crestline Media Networks (hypothetical cable/media company, PE-owned)"
+SponsorEntryEquity_mm,320
+EntryYear_EBITDA_mm,150
+RecapYear,2
+PreRecap_EBITDA_mm,180
+PreRecap_Debt_mm,650
+PreRecap_BlendedRate,0.080
+NewDebtRaised_mm,250
+NewTrancheRate,0.095
+DividendPaid_mm,250
+FCFConversionPctEBITDA,0.55
+EBITDAGrowthRate,0.06
+ExitYear,5
+ExitMultiple,8.5

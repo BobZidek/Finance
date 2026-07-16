@@ -1,0 +1,7 @@
+Rank,Tranche,ParAmount_mm,Type
+1,ABL Revolver (super-senior secured),80,Secured
+2,First Lien Term Loan,320,Secured
+3,Second Lien Notes,150,Secured
+4,Senior Unsecured Notes,200,Unsecured
+5,Subordinated Notes,100,Unsecured
+6,Common Equity,0,Equity

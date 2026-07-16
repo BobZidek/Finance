@@ -1,0 +1,22 @@
+Company: Meridian Industrial Group (hypothetical diversified industrial conglomerate)
+
+=== Segment Valuations ===
+            Segment  Revenue_mm  EBITDA_mm  PeerMultiple_EVEBITDA  SegmentEV_mm
+Aerospace & Defense        1200        220                   11.5        2530.0
+  Building Products         950        155                    9.0        1395.0
+Specialty Chemicals         680         95                    8.0         760.0
+
+Total Segment EV: $4,685.0mm
+Less: Corporate Overhead ($45mm EBITDA @ 7.0x): -$315.0mm
+SOTP Enterprise Value: $4,370.0mm
+Less: Net Debt: -$850.0mm
+SOTP Equity Value: $3,520.0mm
+SOTP Value per Share: $29.33
+
+=== Current Trading (blended 8.5x multiple) ===
+Current EV: $3,612.5mm
+Current Equity Value: $2,762.5mm
+Current Value per Share: $23.02
+
+Implied Conglomerate Discount: 17.3%
+SOTP Upside vs. Current: 27.4%
