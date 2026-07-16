@@ -1,0 +1,4 @@
+Company,EquityMarketCap_mm,EquityVolatility,TotalDebt_mm,ImpliedAssetValue_mm,ImpliedAssetVolatility,AssetToDebtRatio,DistanceToDefault,ImpliedDefaultProbability_1yr,Converged
+Sturdy Industrials Inc. (healthy),2000,0.25,500,2480.3947,0.2016,4.9608,8.0427,0.0,True
+Balanced Manufacturing Co. (moderate leverage),400,0.45,600,976.386,0.1847,1.6273,2.7613,0.0029,True
+Anchorage Retail Holdings (distressed - see IB/distressed-debt-recovery-waterfall),50,0.9,850,859.7218,0.0662,1.0114,0.7431,0.2287,True

@@ -1,0 +1,28 @@
+=== Bond Analysis ===
+               Bond  MaturityYears    YTM        Price  MacaulayDuration  ModifiedDuration  Convexity  Weight
+     Bond A (short)              3 0.0413  996274.0998            2.8564            2.7986     9.4380  0.2476
+     Bond B (belly)              7 0.0404  982470.6226            6.2127            6.0897    42.9518  0.2442
+Bond C (long belly)             12 0.0413 1011265.2358            9.5390            9.3460   105.3314  0.2513
+      Bond D (long)             20 0.0425 1033456.5768           13.5116           13.2304   228.3987  0.2569
+
+Portfolio Modified Duration: 7.927
+Portfolio Convexity: 97.965
+
+=== Price Shock Validation: Bond D (long) (Modified Duration 13.23) ===
+ ShockBps  ActualPctChange  DurationOnlyEstimate  DurationConvexityEstimate  DurationOnlyError  DurationConvexityError
+     -300          52.2601               39.6913                    49.9692           -12.5688                 -2.2909
+     -200          31.6715               26.4608                    31.0288            -5.2107                 -0.6427
+     -100          14.4486               13.2304                    14.3724            -1.2182                 -0.0762
+      -50           6.9100                6.6152                     6.9007            -0.2948                 -0.0093
+        0           0.0000               -0.0000                     0.0000            -0.0000                  0.0000
+       50          -6.3385               -6.6152                    -6.3297            -0.2767                  0.0088
+      100         -12.1573              -13.2304                   -12.0884            -1.0731                  0.0689
+      200         -22.4185              -26.4608                   -21.8929            -4.0423                  0.5256
+      300         -31.1072              -39.6913                   -29.4133            -8.5841                  1.6939
+
+=== Key Rate Durations ===
+               Bond  KRD_2yr  KRD_5yr  KRD_10yr  KRD_30yr  TotalKRD
+     Bond A (short)   1.8655   0.9328   -0.0000   -0.0000    2.7983
+     Bond B (belly)  -0.0000   3.6531    2.4355   -0.0000    6.0886
+Bond C (long belly)  -0.0000  -0.0000    8.4071    0.9345    9.3417
+      Bond D (long)  -0.0000  -0.0000    6.6124    6.6124   13.2247

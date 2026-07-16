@@ -1,0 +1,35 @@
+=== GARCH(1,1) Fitted Parameters ===
+omega: 0.00000829
+alpha[1]: 0.0951  (true value used to generate data: 0.09)
+beta[1]: 0.8328  (true value used to generate data: 0.88)
+Persistence (alpha+beta): 0.9279  (true value: 0.97)
+Long-run unconditional annualized volatility: 17.02%
+
+=== Volatility Estimate Accuracy (vs. next-day realized |return|) ===
+              Method  MAE_vs_NextDayAbsReturn  Correlation_vs_NextDayAbsReturn
+         ConstantVol                 0.005914                         0.000000
+          RollingVol                 0.005683                         0.202006
+GARCH_ConditionalVol                 0.005699                         0.225769
+
+=== 20-Day Forward Volatility Forecast ===
+ HorizonDay  DailyVolForecast  AnnualizedVolForecast
+          1            0.0157                 0.2489
+          2            0.0154                 0.2441
+          3            0.0151                 0.2395
+          4            0.0148                 0.2352
+          5            0.0146                 0.2311
+          6            0.0143                 0.2273
+          7            0.0141                 0.2237
+          8            0.0139                 0.2202
+          9            0.0137                 0.2170
+         10            0.0135                 0.2140
+         11            0.0133                 0.2111
+         12            0.0131                 0.2085
+         13            0.0130                 0.2059
+         14            0.0128                 0.2036
+         15            0.0127                 0.2014
+         16            0.0126                 0.1993
+         17            0.0124                 0.1973
+         18            0.0123                 0.1955
+         19            0.0122                 0.1938
+         20            0.0121                 0.1922

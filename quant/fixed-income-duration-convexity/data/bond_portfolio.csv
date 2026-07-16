@@ -1,0 +1,5 @@
+Bond,MaturityYears,CouponRate,FaceValue
+Bond A (short),3,0.040,1000000
+Bond B (belly),7,0.0375,1000000
+Bond C (long belly),12,0.0425,1000000
+Bond D (long),20,0.045,1000000

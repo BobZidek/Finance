@@ -1,0 +1,4 @@
+Strategy,ExpectedCost_dollars,CostStdDev_dollars,ExpectedCost_bps_of_notional,CostStdDev_bps_of_notional
+Almgren-Chriss Optimal,13850.38,116788.86,5.54,46.72
+TWAP (naive linear),7250.0,253229.15,2.9,101.29
+Immediate Liquidation,50000.0,0.0,20.0,0.0

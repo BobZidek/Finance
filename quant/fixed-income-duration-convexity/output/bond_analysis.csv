@@ -1,0 +1,5 @@
+Bond,MaturityYears,YTM,Price,MacaulayDuration,ModifiedDuration,Convexity,Weight
+Bond A (short),3,0.0413,996274.0998,2.8564,2.7986,9.438,0.2476
+Bond B (belly),7,0.0404,982470.6226,6.2127,6.0897,42.9518,0.2442
+Bond C (long belly),12,0.0413,1011265.2358,9.539,9.346,105.3314,0.2513
+Bond D (long),20,0.0425,1033456.5768,13.5116,13.2304,228.3987,0.2569

@@ -1,0 +1,4 @@
+Company,EquityMarketCap_mm,EquityVolatility,TotalDebt_mm,RiskFreeRate,TimeHorizonYears
+Sturdy Industrials Inc. (healthy),2000,0.25,500,0.04,1.0
+Balanced Manufacturing Co. (moderate leverage),400,0.45,600,0.04,1.0
+Anchorage Retail Holdings (distressed - see IB/distressed-debt-recovery-waterfall),50,0.90,850,0.04,1.0

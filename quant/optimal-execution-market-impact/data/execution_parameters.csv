@@ -1,0 +1,9 @@
+Field,Value
+AssetName,Synthetic Large-Cap Equity (SYNTH)
+SharesToLiquidate,500000
+NumPeriods,10
+StockPrice,50.0
+VolatilityPerPeriod,0.006
+TemporaryImpactCoefficient,0.0000002
+PermanentImpactCoefficient,0.00000002
+BaseRiskAversion,0.0000005

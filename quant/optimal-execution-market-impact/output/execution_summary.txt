@@ -1,0 +1,11 @@
+Asset: Synthetic Large-Cap Equity (SYNTH)
+Shares to Liquidate: 500,000  |  Notional: $25,000,000
+Trading Periods: 10  |  Per-Period Volatility: 0.60%
+
+=== Strategy Comparison ===
+              Strategy  ExpectedCost_dollars  CostStdDev_dollars  ExpectedCost_bps_of_notional  CostStdDev_bps_of_notional
+Almgren-Chriss Optimal              13850.38           116788.86                          5.54                       46.72
+   TWAP (naive linear)               7250.00           253229.15                          2.90                      101.29
+ Immediate Liquidation              50000.00                0.00                         20.00                        0.00
+
+Note: the Almgren-Chriss optimal strategy balances market impact cost (favoring slow trading) against timing risk (favoring fast trading) - it should show a lower cost standard deviation than TWAP for the same or lower expected cost, and both should show materially lower expected cost than immediate liquidation.

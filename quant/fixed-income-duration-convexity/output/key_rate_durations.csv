@@ -1,0 +1,5 @@
+Bond,KRD_2yr,KRD_5yr,KRD_10yr,KRD_30yr,TotalKRD
+Bond A (short),1.8655,0.9328,-0.0,-0.0,2.7983
+Bond B (belly),-0.0,3.6531,2.4355,-0.0,6.0886
+Bond C (long belly),-0.0,-0.0,8.4071,0.9345,9.3417
+Bond D (long),-0.0,-0.0,6.6124,6.6124,13.2247

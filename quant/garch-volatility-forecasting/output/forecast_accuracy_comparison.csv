@@ -1,0 +1,4 @@
+Method,MAE_vs_NextDayAbsReturn,Correlation_vs_NextDayAbsReturn
+ConstantVol,0.005914,0.0
+RollingVol,0.005683,0.202006
+GARCH_ConditionalVol,0.005699,0.225769
