@@ -1,0 +1,4 @@
+Scenario,ExitYear,CompanyExitEquityValue_mm,AsConvertedValue_mm,AccretedLiqPref_mm,RedemptionValue_mm,ChosenPath,Payout_mm,MOIC,IRR_pct
+Strong Growth,5,600,132.0,117.55,,As-Converted (common),132.0,1.65,10.53
+Modest Growth,5,250,55.0,117.55,,Accreted Liquidation Preference,117.55,1.47,8.0
+Stagnant / No Liquidity Event,6,90,19.8,126.95,157.91,Redemption (greater of accreted cost or IRR floor),157.91,1.97,12.0

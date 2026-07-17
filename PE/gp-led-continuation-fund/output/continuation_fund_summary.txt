@@ -1,0 +1,25 @@
+Company: Crestpoint Industrial Services (hypothetical sole remaining asset in an aging PE fund)
+
+=== Step 1: GP-Led Continuation Transaction ===
+Old Fund Cost Basis: $120.0mm
+Transaction NAV: $450.0mm
+Old Fund Gain: $330.0mm
+GP Carry Crystallized (Old Fund, 20%): $66.0mm
+Net LP Proceeds at Transaction: $384.0mm
+
+Rolling LPs (60%): $230.4mm rolled into new fund
+Cash-Out LPs (40%): $153.6mm paid by new secondary investors
+New Continuation Fund Cost Basis: $384.0mm
+
+=== Step 2: Continuation Fund Exit (4 years later) ===
+Exit Value: $650.0mm
+New Fund Gain: $266.0mm
+GP Carry Crystallized (New Fund): $53.2mm
+
+Rolling LPs: $230.4mm -> $358.1mm  (MOIC 1.554x, IRR 11.7%)
+Secondary Investors: $153.6mm -> $238.7mm  (MOIC 1.554x, IRR 11.7%)
+
+=== The 'Double-Dip' Comparison ===
+Total GP Carry (two-step: transaction + eventual exit): $119.2mm
+GP Carry under a SINGLE continuous fund (same final outcome, one crystallization event): $106.0mm
+Additional Carry from the Continuation Structure: $13.2mm (+12.5%)

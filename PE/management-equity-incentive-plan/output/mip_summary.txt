@@ -1,0 +1,24 @@
+Company: Bridgeway Logistics Partners (hypothetical PE-backed logistics platform)
+
+Sponsor Investment: $200mm
+Management Investment: $5.0mm
+
+=== Ratchet Tiers (by Total Deal MOIC) ===
+ Tier  MOICLowerBound  MOICUpperBound  ManagementSharePct
+    1             0.0             2.0                0.10
+    2             2.0             3.0                0.15
+    3             3.0             4.0                0.20
+    4             4.0           999.0                0.25
+
+=== Exit Scenarios ===
+ ExitValue_mm  TotalMOIC  ManagementSharePct  SponsorProceeds_mm  ManagementProceeds_mm  SponsorMOIC  ManagementMOIC
+          300       1.46                10.0               270.0                   30.0         1.35             6.0
+          410       2.00                15.0               348.5                   61.5         1.74            12.3
+          500       2.44                15.0               425.0                   75.0         2.12            15.0
+          615       3.00                20.0               492.0                  123.0         2.46            24.6
+          700       3.41                20.0               560.0                  140.0         2.80            28.0
+          820       4.00                25.0               615.0                  205.0         3.08            41.0
+         1000       4.88                25.0               750.0                  250.0         3.75            50.0
+         1200       5.85                25.0               900.0                  300.0         4.50            60.0
+
+Note: Management's investment is small ($5mm) relative to the sponsor's ($200mm), so even a modest ratchet percentage of total proceeds produces a dramatically higher MOIC for management than for the sponsor at the same exit value - by design, this is what makes the ratchet a powerful incentive tool.

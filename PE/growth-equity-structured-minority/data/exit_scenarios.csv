@@ -1,0 +1,4 @@
+Scenario,ExitYear,CompanyExitEquityValue_mm,IsRedemption
+Strong Growth,5,600,False
+Modest Growth,5,250,False
+Stagnant / No Liquidity Event,6,90,True

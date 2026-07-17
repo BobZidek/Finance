@@ -1,0 +1,12 @@
+Company: Vertex Nutrition Brands (hypothetical high-growth DTC consumer company)
+
+Investment: $80mm for 22% as-converted ownership
+Structure: 1.0x non-participating liquidation preference, 8% cumulative PIK dividend, redemption right after 6 years at the greater of accreted cost or 12% minimum IRR
+
+=== Scenario Comparison ===
+                     Scenario  ExitYear  CompanyExitEquityValue_mm  AsConvertedValue_mm  AccretedLiqPref_mm  RedemptionValue_mm                                         ChosenPath  Payout_mm  MOIC  IRR_pct
+                Strong Growth         5                        600                132.0              117.55                 NaN                              As-Converted (common)     132.00  1.65    10.53
+                Modest Growth         5                        250                 55.0              117.55                 NaN                    Accreted Liquidation Preference     117.55  1.47     8.00
+Stagnant / No Liquidity Event         6                         90                 19.8              126.95              157.91 Redemption (greater of accreted cost or IRR floor)     157.91  1.97    12.00
+
+At each exit, the investor takes whichever payout path is largest: converting to common, taking the accreted liquidation preference, or (if eligible) exercising redemption rights - exactly the downside protection a structured minority investment is designed to provide.

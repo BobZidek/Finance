@@ -1,0 +1,10 @@
+Field,Value
+CompanyName,Highland Building Materials LLC (hypothetical PE-owned industrial products company)
+OutstandingPrincipal_mm,400
+ExistingAllInRate,0.0925
+ExistingRemainingMaturityYears,4
+NewAllInRate,0.0775
+NewMaturityYears,5
+NewOIDPct,0.005
+NewArrangementFees_mm,1.5
+UnamortizedOldFees_mm,1.8

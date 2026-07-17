@@ -1,0 +1,27 @@
+Company: Highland Building Materials LLC (hypothetical PE-owned industrial products company)
+
+Outstanding Principal: $400mm
+Existing Rate: 9.25%  |  Remaining Maturity: 4 years
+New Rate: 7.75%  |  New Maturity: 5 years (extended)
+
+Annual Interest Savings: $6.00mm
+Cash Refinancing Costs (OID + Arrangement Fees): $3.50mm
+  (Note: $1.8mm of unamortized fees on the old debt would also be written off as a non-cash charge - not a new cash cost, but relevant to total GAAP refinancing expense.)
+
+NPV of Interest Savings (over 4-year remaining term, discounted at the new rate): $19.98mm
+NPV of Refinancing: $16.48mm
+Cash Payback (Breakeven) Period: 0.58 years
+
+Breakeven New Rate (where NPV = 0): 8.98% (0.27% of rate cushion below the existing rate)
+
+=== Rate Sensitivity ===
+ NewRate  AnnualSavings_mm  NPVRefinancing_mm  BreakevenYears
+    0.07               8.0              23.45            0.44
+    0.08               7.0              19.95            0.50
+    0.08               6.0              16.48            0.58
+    0.08               5.0              13.06            0.70
+    0.08               4.0               9.68            0.88
+    0.08               3.0               6.33            1.17
+    0.09               2.0               3.02            1.75
+    0.09               1.0              -0.26            3.50
+    0.09               0.0              -3.50             inf
