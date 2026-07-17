@@ -1,0 +1,6 @@
+Field,Value
+WinProbability,0.55
+PayoffRatio,1.0
+NumberOfBets,500
+NumberOfSimulatedPaths,2000
+StartingWealth,1.0

@@ -1,0 +1,30 @@
+Notional: $100mm  |  Maturity: 5 years
+
+=== Curve ===
+ Year  ZeroRate  DiscountFactor  ForwardRate
+    1    0.0420          0.9597        0.042
+    2    0.0415          0.9219        0.041
+    3    0.0410          0.8864        0.040
+    4    0.0415          0.8499        0.043
+    5    0.0420          0.8141        0.044
+
+=== Par Swap Rate (zero NPV at inception) ===
+Par Swap Rate: 4.1952%
+Check - NPV at par rate: $0.000000mm (should be ~0)
+
+=== Floating Leg PV Cross-Check ===
+Shortcut method (Notional x (1 - DF_final)): $18.5931mm
+Manual method (sum of forward-rate cash flows x DF): $18.5931mm
+Difference: $0.00000000mm (should be ~0)
+
+=== Existing Off-Market Swap (contractual fixed rate 3.80%) ===
+Fixed Leg PV: $16.8415mm
+Floating Leg PV: $18.5931mm
+NPV to Fixed-Rate Payer: $1.7515mm
+(Positive because the payer is locked into paying a fixed rate (3.80%) below the current par rate (4.20%))
+
+=== DV01 (NPV to fixed-rate payer, for a +1bp parallel curve shift) ===
+Base NPV: $1.7515mm
+NPV at curve +1bp: $1.7953mm
+NPV at curve -1bp: $1.7077mm
+DV01 (per +1bp): $0.0438mm  (positive - the fixed payer gains when rates rise, since they keep paying a below-market fixed rate while receiving a now-more-valuable floating leg)

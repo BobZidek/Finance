@@ -1,0 +1,14 @@
+=== HMM Fitted Parameters (vs. true generating values) ===
+Calm:      fitted mean 0.001031 (true 0.000600)  |  fitted std 0.008338 (true 0.008000)
+Turbulent: fitted mean -0.000442 (true -0.001000)  |  fitted std 0.025907 (true 0.025000)
+
+Fitted Transition Matrix:
+[[0.97954768 0.02045232]
+ [0.06767973 0.93232027]]
+
+Regime Decoding Accuracy (vs. known true regime labels): 97.2%
+
+=== Regime-Aware Strategy Backtest (in-sample decoded regimes) ===
+    Strategy  TotalReturn  AnnReturn  AnnVol  Sharpe  MaxDrawdown
+Regime-Aware       1.9390     0.1919  0.1468  1.0351      -0.1901
+  Buy & Hold       1.4355     0.1742  0.2219  0.6048      -0.3748

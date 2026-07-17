@@ -1,0 +1,27 @@
+Underlying: Synthetic Equity Index (SYNTH)
+Spot: $100.00  |  Strike: $100.00  |  T=1.00yr  |  r=4.00%  |  sigma=25.00%
+Barrier Level: $130.00  |  Simulated Paths: 50,000
+
+=== Validation: Vanilla Call, Monte Carlo vs. Closed-Form Black-Scholes ===
+Black-Scholes (closed-form): $11.8370
+Monte Carlo estimate: $11.8128  (95% CI: $11.6531 - $11.9726)
+Difference: $-0.0242  |  Black-Scholes price falls within the MC 95% CI: True
+
+=== Asian (Arithmetic Average) Call ===
+Price: $6.6361  (95% CI: $6.5491 - $6.7231)
+Discount vs. vanilla: 43.8% (averaging reduces effective volatility of the payoff)
+
+=== Up-and-Out Barrier Call ===
+Price: $2.4046  (95% CI: $2.3565 - $2.4526)
+Knock-out rate (probability barrier is breached before expiry): 28.7%
+Discount vs. vanilla: 79.6% (knock-out risk reduces value)
+
+=== Convergence Analysis ===
+ NumPaths  VanillaPrice  StdError
+      500     11.322071  0.863146
+     1000     12.538634  0.618056
+     2500     11.795647  0.352359
+     5000     11.845047  0.256965
+    10000     12.233075  0.187371
+    25000     11.761897  0.113755
+    50000     11.835619  0.081747
