@@ -1,0 +1,14 @@
+Field,Value
+BorrowerName,Ferrous Metals Distribution Co. (hypothetical industrial products distributor)
+GrossAR_mm,48
+IneligibleAR_mm,6
+ARAdvanceRate,0.85
+GrossInventory_mm,65
+IneligibleInventory_mm,8
+InventoryNOLVPct,0.72
+InventoryAdvanceRate,0.60
+Reserves_mm,2.5
+FacilityCommitment_mm,75
+OutstandingDraws_mm,32
+LettersOfCredit_mm,3
+MinExcessAvailabilityCovenantPct,0.10

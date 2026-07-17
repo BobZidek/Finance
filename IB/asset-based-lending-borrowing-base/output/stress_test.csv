@@ -1,0 +1,5 @@
+Scenario,NetBorrowingBase_mm,Availability_mm,ExcessAvailability_mm,CovenantTriggered
+Base Case,57.82,57.82,22.82,False
+"Mild Contraction (-10% AR, -8% Inv)",51.5,51.5,16.5,False
+"Moderate Downturn (-20% AR, -15% Inv)",45.45,45.45,10.45,False
+"Severe Stress (-35% AR, -25% Inv)",36.52,36.52,1.52,True

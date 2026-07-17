@@ -1,0 +1,27 @@
+REIT: Coastal Retail Properties Trust (hypothetical shopping center REIT)
+
+=== NAV Approach ===
+                 PropertyType  NOI_mm  MarketCapRate  ShiftedCapRate  PropertyValue_mm
+     Grocery-Anchored Centers      85           0.06            0.06           1360.00
+                Power Centers      45           0.08            0.08            600.00
+Mixed-Use / Lifestyle Centers      30           0.07            0.07            444.44
+
+Total Real Estate Value: $2,404.4mm
+Cash + Other Investments: $100.0mm
+Total Gross Asset Value: $2,504.4mm
+Less: Total Debt: -$1,050.0mm
+Less: Preferred Equity: -$75.0mm
+NAV to Common: $1,379.4mm
+NAV per Share: $14.52
+
+=== FFO / P-FFO Cross-Check ===
+FFO (Net Income + Real Estate D&A): $120.0mm
+FFO per Share: $1.26
+Current P/FFO: 10.13x
+Peer P/FFO Multiple: 12.5x
+Implied Value (P/FFO approach): $15.79/share
+
+=== Current Trading ===
+Current Stock Price: $12.80
+Premium/(Discount) to NAV: -11.8%
+Premium/(Discount) to P/FFO-implied value: -18.9%

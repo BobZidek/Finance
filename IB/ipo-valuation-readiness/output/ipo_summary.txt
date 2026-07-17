@@ -1,0 +1,26 @@
+Company: Nimbus Cloud Systems (hypothetical enterprise SaaS company preparing for IPO)
+
+=== Comps-Based Intrinsic Valuation Range ===
+EV Range: $1,860mm - $2,790mm (6.0x - 9.0x LTM Revenue)
+Per-Share Range: $16.08 - $23.92 (midpoint $20.00)
+
+=== IPO Pricing & Mechanics ===
+IPO Offer Price: $18.00 (10.0% discount to intrinsic midpoint - standard underwriting practice)
+Primary Shares Offered: 12,000,000
+Secondary Shares Offered: 3,000,000
+Greenshoe (over-allotment, 15%): 2,250,000 shares (assumed primary)
+Total Primary Shares (incl. greenshoe): 14,250,000
+Total Shares Sold in Offering: 17,250,000
+
+Gross Primary Proceeds: $256,500,000
+Underwriting Fee (5.5%): -$14,107,500
+Net Primary Proceeds to Company: $242,392,500
+
+Post-IPO Shares Outstanding: 132,750,000
+Post-IPO Market Cap (at offer price): $2,389,500,000
+Post-IPO Market Cap (if trades to intrinsic midpoint): $2,655,000,000
+
+Existing Holder Ownership (post-IPO): 89.3%
+Public Float: 13.0%
+
+Money Left on the Table (at intrinsic midpoint): $34,500,000

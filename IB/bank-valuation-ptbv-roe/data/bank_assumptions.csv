@@ -1,0 +1,11 @@
+Field,Value
+BankName,Meridian Community Bancorp (hypothetical regional bank)
+TangibleBookValue_mm,850
+NetIncomeLTM_mm,102
+RiskFreeRate,0.042
+Beta,1.05
+EquityRiskPremium,0.055
+LongTermGrowthRate,0.030
+CurrentTradingPTBV,1.05
+RiskWeightedAssets_mm,7200
+RequiredCET1Ratio,0.10

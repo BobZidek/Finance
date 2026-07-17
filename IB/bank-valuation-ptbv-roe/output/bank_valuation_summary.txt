@@ -1,0 +1,25 @@
+Bank: Meridian Community Bancorp (hypothetical regional bank)
+
+Cost of Equity (CAPM): 9.98%
+Tangible Book Value: $850mm
+Net Income (LTM): $102mm
+
+=== Blended (Simple) Approach ===
+Blended ROE: 12.00%
+Justified P/TBV: 1.29x
+Implied Equity Value: $1,096.8mm
+
+=== Sum-of-Parts Approach (Core + Excess Capital) ===
+Required Capital (10.0% CET1 on $7,200mm RWA): $720.0mm
+Excess Capital: $130.0mm
+Core ROE (Net Income / Required Capital): 14.17%
+Core Justified P/TBV: 1.60x
+Core Equity Value: $1,152.7mm
+Excess Capital Value (at book): $130.0mm
+Sum-of-Parts Implied Equity Value: $1,282.7mm (1.51x blended TBV)
+
+=== Current Market ===
+Current Trading P/TBV: 1.05x
+Current Market Equity Value: $892.5mm
+
+Sum-of-Parts approach implies 43.7% upside vs. current market value, vs. only 22.9% upside from the simpler blended-ROE approach.

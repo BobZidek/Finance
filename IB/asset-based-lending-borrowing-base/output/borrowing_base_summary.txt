@@ -1,0 +1,38 @@
+Borrower: Ferrous Metals Distribution Co. (hypothetical industrial products distributor)
+
+=== Accounts Receivable Component ===
+Gross AR: $48.0mm
+Less: Ineligible AR: -$6.0mm
+Eligible AR: $42.0mm
+AR Advance Rate: 85%
+AR Borrowing Base Component: $35.70mm
+
+=== Inventory Component ===
+Gross Inventory (at cost): $65.0mm
+Less: Ineligible Inventory: -$8.0mm
+Eligible Inventory (at cost): $57.0mm
+NOLV %: 72%
+Eligible Inventory (at NOLV): $41.04mm
+Inventory Advance Rate: 60%
+Inventory Borrowing Base Component: $24.62mm
+
+=== Total Borrowing Base ===
+Gross Borrowing Base: $60.32mm
+Less: Reserves: -$2.5mm
+Net Borrowing Base: $57.82mm
+Facility Commitment: $75.0mm
+Availability (lesser of the two): $57.82mm
+
+Outstanding Draws: $32.0mm
+Letters of Credit: $3.0mm
+Excess Availability: $22.82mm
+
+Springing Covenant Threshold (10% of commitment): $7.5mm
+Covenant Triggered: False
+
+=== Working Capital Stress Test ===
+                             Scenario  NetBorrowingBase_mm  Availability_mm  ExcessAvailability_mm  CovenantTriggered
+                            Base Case                57.82            57.82                  22.82              False
+  Mild Contraction (-10% AR, -8% Inv)                51.50            51.50                  16.50              False
+Moderate Downturn (-20% AR, -15% Inv)                45.45            45.45                  10.45              False
+    Severe Stress (-35% AR, -25% Inv)                36.52            36.52                   1.52               True
